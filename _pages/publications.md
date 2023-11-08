@@ -34,7 +34,8 @@ Yong Chen, Wei He, Xi-Le Zhao, Ting-Zhu Huang, **Jinshan Zeng**, Hui Lin. Explor
 
 Ke Ma, Qianqian Xu, **Jinshan Zeng**, Guorong Li, Xiaochun Cao, Qingming Huang. A Tale of HodgeRank and Spectral Method: Target Attack Against Rank Aggregation is the Fixed Point of Adversarial Game. IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
-Yanwei Fu, Chen Liu, Donghao Li, Zuyuan Zhong, Xinwei Sun, **Jinshan Zeng**, Yua.
+Yanwei Fu, Chen Liu, Donghao Li, Zuyuan Zhong, Xinwei Sun, **Jinshan Zeng**, Yuan Yao. Exploring structural sparsity of deep networks via inverse scale spaces. IEEE Transactions on Pattern Analysis and Machine Intelligence
+
 
 **Jinshan Zeng**, Wotao Yin, Ding-Xuan Zhou. Moreau envelope augmented Lagrangian method for nonconvex optimization with linear constraints. Journal of Scientific Computing.
 
